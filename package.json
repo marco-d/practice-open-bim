@@ -1,0 +1,28 @@
+{
+  "name": "sbb_bimjs-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Marco D'Elia",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@thatopen/components": "^2.3.15",
+    "@thatopen/components-front": "^2.3.10",
+    "@thatopen/fragments": "^2.3.0",
+    "@thatopen/ui": "^2.3.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.160.1",
+    "web-ifc": "^0.0.59"
+  }
+}
